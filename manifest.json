@@ -1,5 +1,5 @@
 {
-  "name": "ChequeBook Pro",
+  "name": "Integer",
   "short_name": "ChequeBook",
   "start_url": ".",
   "display": "standalone",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
